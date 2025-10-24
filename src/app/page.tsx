@@ -47,7 +47,7 @@ export default function Home() {
             { text: "View Inventory", href: "products" },
             { text: "Schedule Visit", href: "contact" }
           ]}
-          imageSrc="https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_346q1PwyWBLFgxn5R5gWYFVRO0Y/tmp/darjeeling-1761332498932-65e814d6.jpg"
           imageAlt="Modern luxury car in showroom"
           imagePosition="right"
         />
